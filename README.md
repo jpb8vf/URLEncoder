@@ -62,6 +62,9 @@ The goals for this program are:
 
 Make it work according to the rules.
 Create a good user interaction. Care about how the program presents itself, how input is requested, and what feedback messages contain.
+
 Create a well-design application. Structure your application so it is modular and clean. Really think about how you are going to structure the data the app uses as well as the classes and functions. For the characters that needed to be converted to URL encoded values, think about how to do that so it is efficient and clean. Think about how easy it would be to add additional characters that are to be converted at a later time.
+
 Write the functionality yourself. Do not use a library function to URL encode the strings. Yes, a function exists that will take strings and convert them to URL encoded strings. You are not to use it. You are to write the code to perform the required operations yourself.
+
 Try your best! These challenges are the most beneficial to you when you make a valid attempt. If there are things you don't understand, the solution posted as part of the retrospective after the challenge will help bring understanding. If you don't make a valid attempt, then you really aren't going to know what you don't know and won't get maximum benefit from a solution.
