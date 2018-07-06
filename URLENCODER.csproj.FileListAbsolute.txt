@@ -1,0 +1,11 @@
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/bin/Debug/netcoreapp2.0/URLENCODER.deps.json
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/bin/Debug/netcoreapp2.0/URLENCODER.runtimeconfig.json
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/bin/Debug/netcoreapp2.0/URLENCODER.runtimeconfig.dev.json
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/bin/Debug/netcoreapp2.0/URLENCODER.dll
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/bin/Debug/netcoreapp2.0/URLENCODER.pdb
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/obj/Debug/netcoreapp2.0/URLENCODER.csprojResolveAssemblyReference.cache
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/obj/Debug/netcoreapp2.0/URLENCODER.csproj.CoreCompileInputs.cache
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/obj/Debug/netcoreapp2.0/URLENCODER.AssemblyInfoInputs.cache
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/obj/Debug/netcoreapp2.0/URLENCODER.AssemblyInfo.cs
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/obj/Debug/netcoreapp2.0/URLENCODER.dll
+/Users/vitobertolino/Desktop/URLENCODER/URLENCODER/obj/Debug/netcoreapp2.0/URLENCODER.pdb
